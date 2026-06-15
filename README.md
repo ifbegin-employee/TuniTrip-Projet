@@ -6,3 +6,4 @@
 -Fix code review bugs and refactor user module
 Update technical documentation and add code comments
 Add dashboard feature
+Add notification feature
